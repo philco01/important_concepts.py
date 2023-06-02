@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Environment>
+    <URL>https://atidcollege.co.il/Xamples/bmi/</URL>
+    <BROWSER_TYPE>chrome</BROWSER_TYPE>
+    <HEIGHT>170</HEIGHT>
+    <WEIGHT>70</WEIGHT>
+    <EXPECTED_BMI>24</EXPECTED_BMI>
+</Environment>
